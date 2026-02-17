@@ -1,0 +1,1 @@
+# Check-if-a-Number-is-a-Multiple-of-Both-5-and-7
